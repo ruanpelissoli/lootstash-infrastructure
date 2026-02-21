@@ -33,9 +33,4 @@ INSERT INTO d2.classes (id, name, skill_trees) VALUES
     {"name": "Martial Arts", "skills": ["Tiger Strike", "Dragon Talon", "Fists of Fire", "Dragon Claw", "Cobra Strike", "Claws of Thunder", "Blades of Ice", "Dragon Tail", "Dragon Flight", "Phoenix Strike"]},
     {"name": "Shadow Disciplines", "skills": ["Claw Mastery", "Psychic Hammer", "Burst of Speed", "Weapon Block", "Cloak of Shadows", "Fade", "Shadow Warrior", "Mind Blast", "Venom", "Shadow Master"]},
     {"name": "Traps", "skills": ["Fire Blast", "Shock Web", "Blade Sentinel", "Charged Bolt Sentry", "Wake of Fire", "Blade Fury", "Lightning Sentry", "Wake of Inferno", "Death Sentry", "Blade Shield"]}
-  ]'::jsonb),
-  ('warlock', 'Warlock', '[
-    {"name": "Chaos", "skills": []},
-    {"name": "Demon", "skills": []},
-    {"name": "Eldritch", "skills": []}
   ]'::jsonb);

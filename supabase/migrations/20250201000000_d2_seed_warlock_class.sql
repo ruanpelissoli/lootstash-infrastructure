@@ -1,5 +1,5 @@
 INSERT INTO d2.classes (id, name, skill_suffix, skill_trees)
-VALUES ('war', 'Warlock', 'Warlock', '[
+VALUES ('warlock', 'Warlock', 'Warlock', '[
   {
     "name": "Chaos",
     "skills": [
