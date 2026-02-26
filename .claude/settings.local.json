@@ -6,7 +6,8 @@
       "Bash(npx supabase migration:*)",
       "Bash(git rm:*)",
       "Bash(git mv:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(cd:*)"
     ]
   }
 }
